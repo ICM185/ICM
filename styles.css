@@ -37,9 +37,12 @@ p {
 }
 
 body {
-    background-color:rgb(196, 255, 255);
-    background-image: linear-gradient(rgba(109, 248, 253, 0),rgba(57, 232, 255, 0)),url(images/bg.jpg);
-    background-size: cover;
+    background-color: lightcyan;
+    background-image:url(images/bg.jpg);
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
 }
 
 h3 {
