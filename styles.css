@@ -49,12 +49,12 @@ h3 {
     color: rgb(16, 49, 46);
     width:70px;
     position: relative;
-    animation-name: example;
+    animation-name: bread;
     animation-duration: 1s;
     animation-iteration-count: infinite;
 }
 
-@keyframes example {
+@keyframes bread {
     0%   {left:0px; top:0px;}
     50%  {left:0px; top:5px;}
     100% {left:0px; top:0px;}
