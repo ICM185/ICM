@@ -11,7 +11,7 @@ h4 {
 }
 
 h4:hover {
-   color:rgb(158, 255, 250);
+    color:rgb(158, 255, 250);
 }
 
 h1 {
@@ -42,7 +42,6 @@ body {
     background-attachment: fixed;
     background-size:cover;
     background-repeat: no-repeat;
-}
 }
 
 h3 {
